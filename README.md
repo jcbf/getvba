@@ -6,7 +6,7 @@ You can extract VBA macros from your *.xlsm files, without running Microsoft Exc
 ## how to build
 
 ```sh
-git clone git@github.com:takehiko/getvba.git
+git clone https://github.com/takehiko/getvba.git
 cd getvba
 docker build --rm -t takehiko/getvba .
 ```
